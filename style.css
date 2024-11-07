@@ -1,0 +1,23 @@
+body {
+    background-color: #f3f4f5;
+  }
+
+  nav {
+    background-color: #1f2326;
+  }
+
+  #projects {
+    background-color: #1f2326;
+  }
+
+  .jumbotron {
+    background-color: #1f2326;
+    padding-top: 6rem;
+  }
+  footer {
+    background-color: #1f2326;
+    padding: 2rem;
+  }
+  footer a {
+    text-decoration: none;
+  }
